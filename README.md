@@ -28,7 +28,7 @@ module.exports = {
 
 ```html
 <script type="module" src="https://cdn.jsdelivr.net/npm/@uiwebkit/icn@1.2.2/dist/icn/icn.esm.js"></script>
-<script type="module" src="https://cdn.jsdelivr.net/npm/@uiwebkit/mat@2.0.0-8/dist/mat.esm.js"></script>
+<script type="module" src="https://cdn.jsdelivr.net/npm/@uiwebkit/mat@2.0.0-9/dist/mat.esm.js"></script>
 <script type="module" src="https://cdn.jsdelivr.net/npm/@uiwebkit/udk@2.0.0-20/dist/udk.esm.js"></script>
 <script type="module" src="https://cdn.jsdelivr.net/npm/@uiwebkit/tabs@1.0.0/dist/tabs/tabs.esm.js"></script>
 ```
