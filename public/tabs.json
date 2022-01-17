@@ -1,0 +1,16 @@
+[
+  {
+    "icon": "favorite",
+    "iconType": "two-tone",
+    "angle": 270,
+    "label": "Default",
+    "param": "tab=1"
+  },
+  {
+    "icon": "font-awesome",
+    "icons": "fa",
+    "iconType": "brands",
+    "label": "Next-Gen Customization",
+    "param": "tab=2"
+  }
+]
